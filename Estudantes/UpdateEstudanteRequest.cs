@@ -1,6 +1,3 @@
 namespace ApiBasic.Estudantes;
 
-public class UpdateEstudanteRequest
-{
-    
-}
+public record UpdateEstudanteRequest(string? Nome, bool? Ativo);
