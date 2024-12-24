@@ -39,4 +39,6 @@ dotnet run
 http://localhost:5007/swagger/index.html
 ```
 
+![ApiBasic-Dotnet](https://github.com/pierrialexandervidmar/ApiBasic-Dotnet/blob/main/Data/swagger.png)
+
 
